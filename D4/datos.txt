@@ -1,0 +1,3 @@
+Este es un archivo para ser leido por el lector de archivos que estoy creando en esta misma carpeta
+Este archivo tiene 2 lineas para que sean contadas
+Ahora tiene 3 lineas
